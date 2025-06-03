@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory HOL_To_IMP_SAT_To_AT_MOST_THREE_SAT
   imports
     HOL_To_IMP_SAT

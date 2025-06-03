@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Bilel Ghorbel, Florian Kessler\<close>
 
 section "Equivalence of big step and small step semantics"
 

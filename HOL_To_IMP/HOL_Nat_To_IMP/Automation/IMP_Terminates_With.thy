@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory IMP_Terminates_With
   imports IMP.IMP_Tailcall
 begin

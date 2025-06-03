@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory HOL_To_IMP_Primitives
   imports
     "HOL_Nat_To_IMP.HOL_Nat_To_IMP_Tactics"

@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Fabian Huch\<close>
 section "Big step semantics of IMP- "
 
 theory IMP_Minus_Big_StepT

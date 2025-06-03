@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory ML_ICategories
   imports
     ML_Categories

@@ -1,5 +1,4 @@
 (*  Title:  icategory_util.ML
-    Author: Kevin Kappelmann
 
 Utilities on indexed categories
 *)

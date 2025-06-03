@@ -1,5 +1,4 @@
 (*  Title:  HOL_To_IMP/hol_nat_to_imp_util.ML
-    Author: Kevin Kappelmann
 
 General utilities when refining HOL to IMP programs.
 *)

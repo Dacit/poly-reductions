@@ -1,5 +1,3 @@
-\<^marker>\<open>creator Florian Keßler\<close>
-
 section \<open>IMP- Subprograms\<close>
 
 theory IMP_Minus_Subprograms

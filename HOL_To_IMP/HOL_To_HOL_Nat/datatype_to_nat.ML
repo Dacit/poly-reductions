@@ -1,7 +1,4 @@
 (*  Title:      datatype_to_nat.ML
-    Author:     Jay Neubrand, TU Muenchen
-    Author:     Andreas Vollert, TU Muenchen
-    Author:     Kevin Kappelmann, TU Muenchen
 *)
 signature DATATYPE_TO_NAT =
 sig

@@ -1,5 +1,4 @@
 (*  Title:  States/state_update_tracking.ML
-    Author: Kevin Kappelmann
 
 Tracking of STATE equalities.
 *)

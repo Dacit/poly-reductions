@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Bilel Ghorbel, Florian Kessler\<close>
 
 section "Small step semantics of IMP- "
 

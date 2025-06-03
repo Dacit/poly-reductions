@@ -1,6 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
-\<^marker>\<open>creator "Jay Neubrand"\<close>
-\<^marker>\<open>creator "Andreas Vollert"\<close>
 section\<open>HOL with Datatypes to HOL on Natural Numbers\<close>
 theory HOL_To_HOL_Nat_Base
   imports

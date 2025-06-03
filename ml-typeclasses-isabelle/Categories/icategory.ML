@@ -1,5 +1,4 @@
 (*  Title:  icategory.ML
-    Author: Kevin Kappelmann
 
 Basic indexed typeclasses related to category theory,
 inspired by the Haskell Prelude and "Parameterised Notions of Computation" by Robert Atkey.

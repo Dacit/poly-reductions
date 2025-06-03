@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Bilel Ghorbel, Florian Kessler\<close>
 section "IMP A reduced imperative language"
 theory Com
   imports AExp

@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Fabian Huch\<close>
 theory IMP_Base
   imports Eq_On
 begin

@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Florian Kessler\<close>
 
 theory Memory
   imports Big_Step_Small_Step_Equivalence "HOL-Library.Discrete_Functions" Max_Constant

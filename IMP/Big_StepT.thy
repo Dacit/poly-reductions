@@ -1,5 +1,3 @@
-\<^marker>\<open>creator Mohammad Abdulaziz, Bilel Ghorbel, Florian Kessler\<close>
-\<^marker>\<open>creator Fabian Huch\<close>
 section "Big step semantics of IMP"
 theory Big_StepT imports 
   Com "HOL-Eisbach.Eisbach_Tools"

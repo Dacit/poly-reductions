@@ -1,5 +1,4 @@
 (*  Title:  Automation/hol_nat_to_imp_goal_command.ML
-    Author: Kevin Kappelmann
 
 Setup goal for HOL to IMP- refinement.
 *)

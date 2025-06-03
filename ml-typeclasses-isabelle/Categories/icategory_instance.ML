@@ -1,5 +1,4 @@
 (*  Title:  icategory_instance.ML
-    Author: Kevin Kappelmann
 
 Instances of indexed categories.
 *)

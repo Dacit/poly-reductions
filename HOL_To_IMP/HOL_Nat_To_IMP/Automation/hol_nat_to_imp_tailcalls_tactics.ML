@@ -1,6 +1,4 @@
 (*  Title:  Automation/hol_nat_to_imp_tailcalls_tactics.ML
-    Author: Kevin Kappelmann
-    Author: Max Lang
 
 Tactics to run IMP-Tailcall programs, track their states changes, and prove their
 correspondence with HOL programs.

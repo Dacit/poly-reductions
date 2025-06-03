@@ -1,5 +1,4 @@
 (*  Title:  lens.ML
-    Author: Kevin Kappelmann
 
 Lenses adopted from Haskell's fclables https://hackage.haskell.org/package/fclabels
 Unlike fclabels, which uses GADTs and categories, we register lenses as indexed categories.

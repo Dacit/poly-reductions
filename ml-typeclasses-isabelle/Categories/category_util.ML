@@ -1,5 +1,4 @@
 (*  Title:  category_util.ML
-    Author: Kevin Kappelmann
 
 Utilities on categories
 *)

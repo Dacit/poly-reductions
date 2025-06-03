@@ -1,5 +1,3 @@
-\<^marker>\<open>creator "Nico Lintner"\<close>
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory Set_List_Transfer
   imports Main
 begin

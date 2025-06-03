@@ -1,5 +1,4 @@
 (*  Title:  itypeclass_base_instance.ML
-    Author: Kevin Kappelmann
 
 Instances of basic indexed typeclasses.
 *)

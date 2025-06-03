@@ -1,5 +1,4 @@
 (*  Title:  itypeclass_base.ML
-    Author: Kevin Kappelmann
 
 Basic indexed typeclasses (in Atkey-style),
 inspired by the Haskell Prelude and "Parameterised Notions of Computation" by Robert Atkey.

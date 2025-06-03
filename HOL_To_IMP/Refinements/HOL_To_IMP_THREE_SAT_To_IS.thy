@@ -1,6 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
-\<^marker>\<open>creator "Nico Lintner"\<close>
-\<^marker>\<open>contributor "Lukas Stevens"\<close>
 theory HOL_To_IMP_THREE_SAT_To_IS
   imports
     HOL_To_IMP_SAT

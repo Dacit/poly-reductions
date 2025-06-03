@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Bilel Ghorbel, Florian Kessler\<close>
 
 section "Inductive definition of relation power"
 theory Rel_Pow imports Main begin

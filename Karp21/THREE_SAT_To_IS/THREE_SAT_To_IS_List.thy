@@ -1,6 +1,3 @@
-\<^marker>\<open>creator "Nico Lintner"\<close>
-\<^marker>\<open>contributor "Kevin Kappelmann"\<close>
-\<^marker>\<open>contributor "Lukas Stevens"\<close>
 subsection \<open>Three Sat to Independent Set on Lists\<close>
 theory THREE_SAT_To_IS_List
   imports

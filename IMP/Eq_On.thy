@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Fabian Huch"\<close>
 theory Eq_On
   imports Main
 begin

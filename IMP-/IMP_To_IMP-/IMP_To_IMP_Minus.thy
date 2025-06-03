@@ -1,5 +1,3 @@
-\<^marker>\<open>creator Florian Keßler\<close>
-\<^marker>\<open>contributors Mohammad Abdulaziz, Bilel Ghorbel\<close>
 
 section "IMP to IMP-"
 

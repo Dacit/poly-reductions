@@ -1,6 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
-\<^marker>\<open>creator "Jay Neubrand"\<close>
-\<^marker>\<open>creator "Andreas Vollert"\<close>
 subsection \<open>Basic Datatypes and Functions\<close>
 theory HOL_To_HOL_Nat_Basics
   imports

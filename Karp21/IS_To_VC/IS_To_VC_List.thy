@@ -1,5 +1,3 @@
-\<^marker>\<open>creator "Nico Lintner"\<close>
-\<^marker>\<open>contributor "Kevin Kappelmann"\<close>
 subsection \<open>Independent Set To Vertex Cover on Lists\<close>
 theory IS_To_VC_List
   imports

@@ -1,5 +1,4 @@
 (*  Title:  category.ML
-    Author: Kevin Kappelmann
 
 Basic typeclasses related to category theory, inspired by the Haskell base package.
 

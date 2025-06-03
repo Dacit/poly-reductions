@@ -1,5 +1,4 @@
 (*  Title: state_result.ML
-    Author: Kevin Kappelmann
 
 Types that contain a state and a result value.
 *)

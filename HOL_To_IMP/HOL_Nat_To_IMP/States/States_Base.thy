@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory States_Base
   imports
     (* Trie.Trie *)

@@ -1,5 +1,3 @@
-\<^marker>\<open>contributor "Nico Lintner"\<close>
-\<^marker>\<open>contributor "Kevin Kappelmann"\<close>
 section\<open>Definition of (CNF) SAT\<close>
 theory SAT_Definition
   imports Main

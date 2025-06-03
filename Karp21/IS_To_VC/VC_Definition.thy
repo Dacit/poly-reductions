@@ -1,5 +1,3 @@
-\<^marker>\<open>contributor "Nico Lintner"\<close>
-\<^marker>\<open>contributor "Kevin Kappelmann"\<close>
 theory VC_Definition
   imports IS_Definition
 begin

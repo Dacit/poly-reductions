@@ -1,5 +1,3 @@
-\<^marker>\<open>creator "Nico Lintner"\<close>
-\<^marker>\<open>contributor "Kevin Kappelmann"\<close>
 theory SAT_List_Definition
   imports
     SAT_Definition

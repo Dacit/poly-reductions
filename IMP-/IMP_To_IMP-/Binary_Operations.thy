@@ -1,5 +1,3 @@
-\<^marker>\<open>creator Florian Keßler\<close>
-\<^marker>\<open>creator Fabian Huch\<close>
 
 section "Binary Operations in IMP-"
 

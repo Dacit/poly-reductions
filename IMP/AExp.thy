@@ -1,5 +1,3 @@
-\<^marker>\<open>creator Bilel Ghorbel, Florian Kessler\<close>
-\<^marker>\<open>creator Fabian Huch\<close>
 theory AExp
   imports
     IMP_Base

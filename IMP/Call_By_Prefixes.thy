@@ -1,4 +1,3 @@
-(*Authors: Mohammad Abdulaziz*)
 
 theory Call_By_Prefixes
   imports IMP.Com Big_StepT Vars

@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Fabian Huch\<close>
 theory IMP_Calls
   imports Big_StepT
 begin

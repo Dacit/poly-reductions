@@ -1,6 +1,3 @@
-\<^marker>\<open>creator "Lukas Stevens"\<close>
-\<^marker>\<open>contributor "Kevin Kappelmann"\<close>
-\<^marker>\<open>contributor "Nico Lintner"\<close>
 theory Compile_HOL_Nat_To_IMP
   imports
     IMP_Terminates_With

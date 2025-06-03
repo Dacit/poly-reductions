@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory HOL_Nat_To_IMP_Base
   imports
     HOL.HOL

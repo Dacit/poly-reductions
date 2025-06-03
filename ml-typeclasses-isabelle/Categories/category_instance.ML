@@ -1,5 +1,4 @@
 (*  Title:  category_instance.ML
-    Author: Kevin Kappelmann
 
 Instances of categories.
 *)

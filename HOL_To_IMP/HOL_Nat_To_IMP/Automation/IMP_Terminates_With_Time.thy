@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory IMP_Terminates_With_Time
   imports IMP_Terminates_With
 begin

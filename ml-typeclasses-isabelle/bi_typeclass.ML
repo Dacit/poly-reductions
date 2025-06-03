@@ -1,5 +1,4 @@
 (*  Title:  bi_typeclass.ML
-    Author: Kevin Kappelmann
 *)
 signature BI_FUNCTOR_FIRST =
 sig

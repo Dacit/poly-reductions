@@ -1,6 +1,4 @@
 (*  Title:  Automation/hol_nat_to_imp_tactics.ML
-    Author: Kevin Kappelmann
-    Author: Max Lang
 
 HOL to IMP tactics with arguments from context.
 *)

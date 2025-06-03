@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory ML_Categories
   imports
     ML_Typeclasses_Base

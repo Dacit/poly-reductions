@@ -1,5 +1,4 @@
 (*  Title:  state.ML
-    Author: Kevin Kappelmann
 
 Indexed state monads adapted from Haskell's mtl package.
 *)

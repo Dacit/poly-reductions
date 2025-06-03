@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory ML_Typeclasses_Base
   imports Pure
 begin

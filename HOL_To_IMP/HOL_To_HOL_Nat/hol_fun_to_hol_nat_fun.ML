@@ -1,7 +1,4 @@
 (*  Title:      hol_fun_to_hol_nat_fun.ML
-    Author:     Jay Neubrand, TU Muenchen
-    Author:     Andreas Vollert, TU Muenchen
-    Author:     Kevin Kappelmann, TU Muenchen
 *)
 signature HOL_FUN_TO_HOL_NAT_FUN =
 sig

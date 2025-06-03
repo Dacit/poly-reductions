@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Manuel Eberl"\<close>
 theory Polynomial_Growth_Functions
   imports Landau_Symbols.Landau_More
 begin

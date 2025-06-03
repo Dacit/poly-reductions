@@ -1,5 +1,4 @@
 (*  Title:  typeclass_base.ML
-    Author: Kevin Kappelmann
 
 Basic typeclasses inspired by the Haskell Prelude, monad-transformers, and the mtl package.
 

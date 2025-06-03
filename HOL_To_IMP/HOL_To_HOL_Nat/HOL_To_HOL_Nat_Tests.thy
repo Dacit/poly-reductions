@@ -1,6 +1,3 @@
-\<^marker>\<open>creator "Jay Neubrand"\<close>
-\<^marker>\<open>creator "Andreas Vollert"\<close>
-\<^marker>\<open>contributor "Kevin Kappelmann"\<close>
 theory HOL_To_HOL_Nat_Tests
   imports
     HOL_To_HOL_Nat_Basics

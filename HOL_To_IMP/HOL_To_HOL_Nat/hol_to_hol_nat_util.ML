@@ -1,5 +1,4 @@
 (*  Title:      hol_to_hol_nat_util.ML
-    Author:     Kevin Kappelmann, TU Muenchen
 *)
 signature HOL_TO_HOL_NAT_UTIL =
 sig

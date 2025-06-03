@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Florian Keßler\<close>
 
 section "Binary Arithmetic"
 

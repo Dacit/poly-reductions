@@ -1,4 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
 theory State_Update_Tracking
   imports
     HOL_Nat_To_IMP_Base

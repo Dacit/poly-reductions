@@ -1,5 +1,3 @@
-\<^marker>\<open>creator Florian Keßler\<close>
-\<^marker>\<open>contributor Fabian Huch\<close>
 
 section "IMP to IMP- State Translations"
 

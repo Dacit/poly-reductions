@@ -1,5 +1,3 @@
-\<^marker>\<open>creator "Kevin Kappelmann"\<close>
-\<^marker>\<open>creator "Jonas Stahl"\<close>
 theory HOL_To_IMP_Lists
   imports
     HOL_To_IMP_Pairs

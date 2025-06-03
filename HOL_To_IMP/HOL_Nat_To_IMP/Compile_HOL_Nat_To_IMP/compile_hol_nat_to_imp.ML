@@ -1,5 +1,4 @@
 (*  Title:      HOL_To_IMPcompile_hol_nat_to_imp.ML
-    Author:     Lukas Stevens, TU Muenchen
 
 Compiler from HOL-tailrecursive functions on natural numbers to IMP with tailcalls.
 *)

@@ -1,4 +1,3 @@
-\<^marker>\<open>creator Bilel Ghorbel, Florian Kessler\<close>
 
 section "IMP- An even more reduced imperative language"
 
